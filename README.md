@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Steph
+## Hi there 👋 I'm Stephanie
 
 I'm a software developer based in Nairobi, Kenya 🇰🇪. I build full-stack web systems, mostly Laravel/PHP and Java/Spring Boot on the backend with Next.js, React and ExtJS on the front. I also like explaining how things work, thus involved in technical writing and developer advocacy.
 
