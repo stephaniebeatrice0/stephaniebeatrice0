@@ -17,7 +17,6 @@ I'm a software developer based in Nairobi, Kenya 🇰🇪. I build full-stack we
 ![ExtJS](https://img.shields.io/badge/Ext_JS-86BC40?style=flat&logo=sencha&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Also comfortable with:** Multi-database architectures, deployment, continuous integration and payment gateway integrations.
